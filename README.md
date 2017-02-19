@@ -1,7 +1,7 @@
 # PyTablePrint
 Python library to print dictionaries in a formatted table.
 
-Tested with python 2.7.10 and 3.5.2.
+Tested with python versions 2.7.10 and 3.5.2 and pep8 version 1.7.0
 
 ### Files:
 ~~~
