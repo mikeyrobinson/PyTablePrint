@@ -1,5 +1,5 @@
 # PyTablePrint
-Python library to print dictionaries in a formatted table.
+Python library to print an array of dictionaries as a formatted table.
 
 Tested with python versions 2.7.10 and 3.5.2 and pep8 version 1.7.0.
 
