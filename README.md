@@ -1,11 +1,11 @@
 # PyTablePrint
 Python library to print dictionaries in a formatted table.
 
-Tested with python versions 2.7.10 and 3.5.2 and pep8 version 1.7.0
+Tested with python versions 2.7.10 and 3.5.2 and pep8 version 1.7.0.
 
 ### Files:
 ~~~
-   TablePrint.py     - library file with TablePrintHeader and TablePrint classes
+   TablePrint.py     - library file with TablePrintHeader and TablePrint classes.
    TestTablePrint.py - unittests for the utility.
    TablePrintTest.py - test examples for library.
 ~~~
@@ -19,7 +19,7 @@ Tested with python versions 2.7.10 and 3.5.2 and pep8 version 1.7.0
    b) Header (default "-")
    c) Joint of header and column (default "+")
 4) Column headers display text and be confiured
-5) Select which dictionary items to diplay.
+5) Select which dictionary items to diplay
 6) Dictionary items with dictionaries can be displayed
 ~~~
 
