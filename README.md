@@ -5,20 +5,20 @@ Tested with python versions 2.7.10 and 3.5.2 and pep8 version 1.7.0.
 
 ### Files:
 ~~~
-   TablePrint.py     - library file with TablePrintHeader and TablePrint classes.
-   TestTablePrint.py - unittests for the utility.
-   TablePrintTest.py - test examples for library.
+   TablePrint.py     - library file
+   TestTablePrint.py - unittests for the library
+   TablePrintTest.py - test examples for library
 ~~~
 
-### The library provides the following features:
+### Library features:
 ~~~
 1) Header text alignment per column - Center (default), Right, Left
 2) Column text alignment per column - Center (default), Right, Left
-3) Table format character which can be configured:
+3) Table format characters configurable:
    a) Column (default "|")
    b) Header (default "-")
    c) Joint of header and column (default "+")
-4) Column headers display text and be confiured
+4) Column headers display text configurable
 5) Select which dictionary items to diplay
 6) Dictionary items with dictionaries can be displayed
 ~~~
